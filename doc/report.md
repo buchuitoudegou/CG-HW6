@@ -75,6 +75,6 @@ void Lighting::updateLightPos() {
 ```
 
 ## 实验截图
-![](F:\学习\大三下\计算机图形学\Homework6\doc\phong.PNG)
+![](./phong.PNG)
 
-![](F:\学习\大三下\计算机图形学\Homework6\doc\gouraud.PNG)
+![](./gouraud.PNG)
